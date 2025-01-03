@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ola Yinka",
+  "name": "Ola Yinka | Full Stack Developer Portfolio",
+  "description": "Professional portfolio showcasing full-stack development projects and skills in React, TypeScript, Django, and modern web technologies.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,16 +11,39 @@
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#0a192f",
+  "background_color": "#0a192f",
+  "categories": ["portfolio", "development", "web development", "technology"],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "type": "image/png",
+      "sizes": "1920x1080",
+      "label": "Homepage of Ola Yinka's Portfolio"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Projects",
+      "url": "/#projects",
+      "description": "View my latest projects"
+    },
+    {
+      "name": "Contact",
+      "url": "/#contact",
+      "description": "Get in touch with me"
+    }
+  ]
 }

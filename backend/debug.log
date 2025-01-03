@@ -1,0 +1,248 @@
+INFO 2024-11-22 00:55:11,779 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 00:55:33,783 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 00:58:05,207 views Received contact form submission: {'name': 'Testing Josh', 'email': 'John@doe.com', 'subject': 'Josh Wanna Work', 'message': 'Testing Josh doe'}
+INFO 2024-11-22 00:58:05,232 views Created contact record: 1
+INFO 2024-11-22 00:58:05,232 views Attempting to send email notification to b5f2725c2b8a3a
+INFO 2024-11-22 00:58:07,093 views Received contact form submission: {'name': 'Testing Josh', 'email': 'John@doe.com', 'subject': 'Josh Wanna Work', 'message': 'Testing Josh doe'}
+INFO 2024-11-22 00:58:07,098 views Created contact record: 2
+INFO 2024-11-22 00:58:07,098 views Attempting to send email notification to b5f2725c2b8a3a
+INFO 2024-11-22 00:58:07,519 views Email notification sent successfully
+INFO 2024-11-22 00:58:08,935 views Email notification sent successfully
+INFO 2024-11-22 01:00:36,838 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/views.py changed, reloading.
+INFO 2024-11-22 01:00:37,842 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 01:02:45,779 views Received contact form submission: {'name': 'john doe', 'email': 'jon@doe.com', 'subject': 'jon doe', 'message': 'john doe wanna work'}
+INFO 2024-11-22 01:02:45,798 views Created contact record: 3
+INFO 2024-11-22 01:02:45,799 views Attempting to send email notification to olayinkatimothy102@gmail.com
+INFO 2024-11-22 01:02:47,544 views Email notification sent successfully
+INFO 2024-11-22 01:03:53,196 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 01:03:54,035 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 01:04:12,946 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/views.py changed, reloading.
+INFO 2024-11-22 01:04:13,592 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 01:04:37,752 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 01:05:24,644 views Received contact form submission: {'name': 'jon 3', 'email': '3jon@doe.com', 'subject': 'wanna work?', 'message': 'testing email '}
+INFO 2024-11-22 01:05:24,656 views Created contact record: 4
+INFO 2024-11-22 01:05:24,656 views Email settings: HOST=smtp.gmail.com, PORT=587, TLS=True
+INFO 2024-11-22 01:05:24,656 views Sending from: olayinkatimothy102@gmail.com
+INFO 2024-11-22 01:05:24,656 views Sending to: olayinkatimothy102@gmail.com
+ERROR 2024-11-22 01:05:25,790 views Failed to send email notification: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-433cde8c862sm9663415e9.29 - gsmtp')
+ERROR 2024-11-22 01:05:25,790 views Error details: SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-433cde8c862sm9663415e9.29 - gsmtp')
+INFO 2024-11-22 01:05:55,236 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 01:05:55,981 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 01:06:19,469 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 05:49:07,246 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/models.py changed, reloading.
+INFO 2024-11-22 05:49:09,088 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 05:49:21,948 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/admin.py changed, reloading.
+INFO 2024-11-22 05:49:22,763 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 05:49:34,384 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/views.py changed, reloading.
+INFO 2024-11-22 05:49:34,969 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 05:49:49,511 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/serializers.py changed, reloading.
+INFO 2024-11-22 05:49:50,385 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 05:50:03,225 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/urls.py changed, reloading.
+INFO 2024-11-22 05:50:03,768 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 05:55:50,166 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:55:50,185 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:55:50,415 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:55:50,427 log Not Found: /api/api/projects/
+INFO 2024-11-22 05:57:23,005 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/serializers.py changed, reloading.
+INFO 2024-11-22 05:57:23,987 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 05:58:21,375 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:58:21,395 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:58:21,859 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:58:21,872 log Not Found: /api/api/projects/
+WARNING 2024-11-22 05:58:56,262 log Not Found: /favicon.ico
+ERROR 2024-11-22 05:58:58,979 log Internal Server Error: /admin/portfolio/blogpost/
+Traceback (most recent call last):
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: portfolio_blogpost
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2001, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 866, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 146, in __init__
+    self.get_results(request)
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/contrib/admin/views/main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/core/paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/models/query.py", line 620, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/models/sql/query.py", line 630, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/models/sql/query.py", line 616, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/olayinka/CascadeProjects/portfolio/backend/venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: portfolio_blogpost
+INFO 2024-11-22 06:02:01,009 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/models.py changed, reloading.
+INFO 2024-11-22 06:02:02,151 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 06:07:07,823 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 06:07:09,323 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 06:14:27,406 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 06:14:42,661 log Not Found: /
+WARNING 2024-11-22 06:42:05,284 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:05,314 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:05,448 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:05,472 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:18,645 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:18,658 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:19,115 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:42:19,141 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:44,169 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:44,278 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:44,705 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:44,729 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:52,519 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:52,543 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:52,700 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:52,711 log Not Found: /api/api/projects/
+WARNING 2024-11-22 06:46:54,379 log Not Found: /api/api/
+WARNING 2024-11-22 06:46:54,897 log Not Found: /favicon.ico
+WARNING 2024-11-22 10:25:54,139 log Not Found: /api/api/
+INFO 2024-11-22 10:39:12,809 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:44:59,588 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:44:59,597 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:01,977 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:03,567 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:04,074 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:06,290 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:06,937 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:08,148 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:09,308 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:10,538 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:11,317 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:12,517 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:13,045 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:14,243 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:14,802 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:17,094 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:17,623 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:45:29,922 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:45:30,917 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:48:10,935 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/views.py changed, reloading.
+INFO 2024-11-22 10:48:11,942 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:49:52,016 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio/views.py changed, reloading.
+INFO 2024-11-22 10:49:52,964 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:56:44,795 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:56:46,080 autoreload Watching for file changes with StatReloader
+INFO 2024-11-22 10:58:27,522 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 10:58:28,557 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 11:04:21,345 log Not Found: /
+INFO 2024-11-22 11:04:41,807 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 11:04:43,137 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 11:23:12,126 log Not Found: /api/about/
+WARNING 2024-11-22 11:23:48,981 log Not Found: /api/about/
+WARNING 2024-11-22 11:23:49,094 log Not Found: /api/about/
+WARNING 2024-11-22 11:24:19,503 log Not Found: /api/about/
+WARNING 2024-11-22 11:24:19,543 log Not Found: /api/about/
+WARNING 2024-11-22 11:24:55,595 log Not Found: /api/about/
+WARNING 2024-11-22 11:24:55,655 log Not Found: /api/about/
+WARNING 2024-11-22 11:27:40,166 log Not Found: /api/about/
+WARNING 2024-11-22 11:27:40,284 log Not Found: /api/about/
+WARNING 2024-11-22 11:29:15,060 log Not Found: /api/about/
+WARNING 2024-11-22 11:32:10,910 log Not Found: /api/about/
+WARNING 2024-11-22 11:32:11,046 log Not Found: /api/about/
+WARNING 2024-11-22 11:32:50,588 log Not Found: /api/about/
+WARNING 2024-11-22 11:32:50,646 log Not Found: /api/about/
+WARNING 2024-11-22 11:41:49,078 log Not Found: /api/about/
+WARNING 2024-11-22 11:41:49,172 log Not Found: /api/about/
+WARNING 2024-11-22 11:44:01,702 log Not Found: /api/about/
+WARNING 2024-11-22 11:44:01,752 log Not Found: /api/about/
+WARNING 2024-11-22 11:45:25,699 log Not Found: /api/about/
+WARNING 2024-11-22 11:45:25,734 log Not Found: /api/about/
+WARNING 2024-11-22 11:49:22,862 log Not Found: /api/about/
+WARNING 2024-11-22 11:49:22,946 log Not Found: /api/about/
+WARNING 2024-11-22 11:50:16,155 log Not Found: /api/about/
+WARNING 2024-11-22 11:50:16,267 log Not Found: /api/about/
+WARNING 2024-11-22 11:54:24,571 log Not Found: /api/about/
+WARNING 2024-11-22 11:54:24,629 log Not Found: /api/about/
+WARNING 2024-11-22 11:54:57,819 log Not Found: /api/about/
+WARNING 2024-11-22 11:54:57,847 log Not Found: /api/about/
+WARNING 2024-11-22 11:58:13,997 log Not Found: /api/about/
+WARNING 2024-11-22 11:58:14,025 log Not Found: /api/about/
+WARNING 2024-11-22 12:00:20,924 log Not Found: /favicon.ico
+INFO 2024-11-22 12:07:57,718 autoreload /Users/olayinka/CascadeProjects/portfolio/backend/portfolio_backend/settings.py changed, reloading.
+INFO 2024-11-22 12:07:59,173 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-22 12:12:11,396 log Not Found: /api/about/
+WARNING 2024-11-22 12:12:11,429 log Not Found: /api/about/
+WARNING 2024-11-22 12:12:24,714 log Not Found: /api/about/
+WARNING 2024-11-22 12:12:24,780 log Not Found: /api/about/
+WARNING 2024-11-22 12:18:35,717 log Not Found: /api/about/
+WARNING 2024-11-22 12:18:35,912 log Not Found: /api/about/
+WARNING 2024-11-22 12:21:23,788 log Not Found: /api/api/projects/
+WARNING 2024-11-22 12:21:23,810 log Not Found: /api/api/projects/
+WARNING 2024-11-22 12:21:24,265 log Not Found: /api/api/projects/
+WARNING 2024-11-22 12:21:24,280 log Not Found: /api/api/projects/
+WARNING 2024-11-22 12:22:08,069 log Not Found: /api/about/
+WARNING 2024-11-22 12:22:11,627 log Not Found: /api/about/
+WARNING 2024-11-22 12:22:11,819 log Not Found: /api/about/
+WARNING 2024-11-22 12:22:26,991 log Not Found: /api/about/
+WARNING 2024-11-22 12:22:27,032 log Not Found: /api/about/
